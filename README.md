@@ -1,13 +1,17 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF2709&center=true&vCenter=true&width=435&lines=Hi+I+am+Yasmeen+Habib;I+am+software+developer)](https://git.io/typing-svg)
 
 
 
+</div>
 <!---buttons
 <p align="middle">
   <a href="#⦿-🌱-𝙸’𝚖-𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢-𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐-**what I need**">
   <img src="PNG/About.png" width="100" />
   </a>
   <a href="#𝙂𝙞𝙩𝙃𝙪𝙗-𝙎𝙩𝙖𝙩𝙨">
-  <img src="PNG/Stats.png" width="100" /> 
+  <img src="PNG/Stats.png" width="100" />
   </a>
   <a href="#">
   <img src="PNG/projects.png" width="100" />
@@ -31,14 +35,8 @@
 
 -->
 
-  
   <!--img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/minion.png' width='300"'-->
-  
 
-
-
-
- 
 <div align="left">
  
    ### Freelance Developer <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
@@ -46,19 +44,17 @@
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" align="right" width="130" height="auto"/>
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
-I create magic with 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4998&pause=1000&color=06161D&background=9F9F9F00&width=435&lines=HTML+%7C+CSS;JavaScript;PHP;Laravel;SAP+ABAP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=100&color=F72511&center=true&vCenter=true&multiline=true&width=435&height=120&lines=I+am+currently+working+on;PHP+%7C+Laravel;SAP+ABAP;Metasploit)](https://git.io/typing-svg)
 
 </br>
  I have been shaping the web, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> professionally, for 4 years.
 
 - In my free time I solve problems on GeeksforGeeks and read tech articles.
-- Ask me about books, black holes and history (¯\_(ツ)_/¯)
+- Ask me about books, black holes and history ¯\'_(ツ)_/¯ 
 - I’m currently working on: **JavaScript | Laravel | MySQL | SAP ABAP | Metasploit **
 
-  ### About my Coding Life!
-  
+### About my Coding Life!
+
 - Favorite language: PHP
 - OS: Windows10
 - Text Editor: Sublime Text
@@ -73,78 +69,124 @@ I create magic with
 <br/>
 -->
 
-----
+---
+
 ### My Tech Playground 🚀
 
+<p align="left" width="100">
 
+I love technology, especially <b>computer science</b>,</br> cloud computing, software engineering, and creating automation tools.
+</br></br>
+Embrace My Versatility
 
-<p>I love technology, especially <b>computer science</b>, cloud computing, software engineering, and creating automation tools.</p>
+</p>
+<p align="right">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+</p> 
+<p align="left"></p>
+
 <table align=center>
 <tr>
 <th>Description</th>
 <th>Tools</th>
 </tr>
 <tr>
-<td>Frontend</td>
-<td><img  src='https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg'  alt='html5'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'  alt='css3'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'  alt='javascript'  height='30'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="TypeScript" height="30" /><img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg'  alt='c'  height='35'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg'  alt='c++'  height='35'></td>
-</tr>
- <tr>
-<td>Backend</td>
-<td><img  src='https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg'  alt='mongodb'  height='35'>  <img  src='https://www.vectorlogo.zone/logos/mysql/mysql-official.svg'  alt='mysql'  height='35'></td>
-</tr>
-<tr>
-<td>Libraries & Frameworks I Use</td>
-<td><img  src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg'  alt='react js'  height='30'>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" title="Redux" height="30" /> <img  src='https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg'  alt='node js'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg'  alt='express js'  width='30'> <img  src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg'  alt='tailwind css'  height='30'>
-<img  src='https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg'  alt='laravel'  height='30'>
+<td align="center" width="200">Frontend</td>
+<td>
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="40" alt="jquery logo"  />
 </td>
 </tr>
 <tr>
-<td>Databases I Use</td>
-<td><img  src='https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg'  alt='mongodb'  height='35'>  <img  src='https://www.vectorlogo.zone/logos/mysql/mysql-official.svg'  alt='mysql'  height='35'></td>
+<td align="center" width="200">Backend</td>
+<td>
+   <img width="12" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="40" alt="php logo"  />
+   <img width="12" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="40" alt="php logo"  />
+   <img width="12" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="40" alt="php logo"  />
+
+</td>
 </tr>
 <tr>
-<td>Advance Tech</td>
-<td><img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg'  alt='visualstudiocode'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'  alt='linux'  height='30'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" title="GitHub" height="30" /> <img  src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'  alt='git'  height='30'></td>
-</tr>
- <tr>
-<td>Tools necessary for survival</td>
-<td>![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) 
- <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'  alt='linux'  height='30'>
- 
- <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'  alt='linux'  height='30'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" title="GitHub" height="30" /> <img  src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'  alt='git'  height='30'></td>
+<td align="center" width="200">Databases</td>
+<td>
+    <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+</td>
 </tr>
 <tr>
+<td align="center" width="200">Frameworks and Libraries</td>
+<td>
+    <img width="12" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="40" alt="laravel logo"  />
+   <img width="12" />
+  <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="40" alt="wordpress logo"  />
+</td>
 </tr>
+<!--<tr>
+<td align="center" width="200">Others</td>
+<td>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">Tools for survival</td>
+<td> 
+</td>
+</tr>-->
 </table>
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-</p>
+
 <!---<img src=" https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100">-->
 
- Embrace My Versatility 
+</br>
 
-
-
----
-<img width="380" align="right" alt="Github"
+<img width="250" align="right" alt="Github"
 src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Icons/developer-girl.gif" 
-/> 
-### 📫 Just to say hello! 
-<!--<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>-->
+/>
+
+### Just to say hello!
+
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 <div align="center">
-  <a href="https://linkedin.com/in/yasmeen-habib/">
-    <img alt="LinkedIn" src="https://raw.githubusercontent.com/yousafesaeed/yousafesaeed/main/assets/linkedin.svg" width="22px" hight="22px"/>
-  </a>&emsp;
-  <a href="https://twitter.com/yousafesaeed/">
-    <img alt="Twitter" src="https://raw.githubusercontent.com/yousafesaeed/yousafesaeed/main/assets/twitter.svg"  width="22px" hight="22px"/>
-  </a>&emsp;
-  <a href="mailto:yasminhabib20@gmail.com">
-    <img alt="Email" src="https://raw.githubusercontent.com/yousafesaeed/yousafesaeed/main/assets/email.svg" width="22px" hight="22px"/>
+  <img width="12" />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <img width="12" />
+  <a href="https://www.linkedin.com/in/yasmeen-habib/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://mail.google.com/mail/u/?authuser=yasminhabib20@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://medium.com/@yasminhabib20" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://codepen.io/Yasmeen673" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://stackoverflow.com/users/14595091/yasmeen-habib" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
   </a>
 </div>
+
 <!--
-whatsapp (qrcode) 
+whatsapp (qrcode)
 ### More bullet points because I am Lazy..
 ### 👉 About Me
 ### 📎 Projects
@@ -159,27 +201,21 @@ whatsapp (qrcode)
 -->
 <!---
 recommended reads / quotes / jokes
-GitHub stats, pins, , and daily stats.  
+GitHub stats, pins, , and daily stats.
 -->
-
 
 <!-- Thanks for your Visit -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=1500&color=010101&center=true&vCenter=true&multiline=true&repeat=false&width=1600&height=200&lines=Hope+you+enjoy!;Now+we+both+should+probably;get+back+to+coding!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF2709&center=true&vCenter=true&width=700&height=60&lines=Hope+you+enjoy!;Now+we+both+should+probably+get+back+to+coding!)](https://git.io/typing-svg)
 
 <!--
 <div align="center">
 <img src="https://tenor.com/view/bjyx-wyb-wang-yibo-finger-heart-heart-gif-15749379.gif"> </div> <br>-->
 
-<!-- Back to TOP 
+<!-- Back to TOP
 <p align="left">
 <a href="#top">
 <img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=red&style=for-the-badge&logo" alt="Back to Top" /> </a> </p>
 
 
 -->
-
-
-
-
