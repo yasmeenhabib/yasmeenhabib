@@ -1,6 +1,7 @@
 
 
-<!---buttons-->
+
+<!---buttons
 <p align="middle">
   <a href="#⦿-🌱-𝙸’𝚖-𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢-𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐-**what I need**">
   <img src="PNG/About.png" width="100" />
@@ -15,9 +16,9 @@
   <img src="PNG/social.png" width="100" />
   </a>
 </p>
-
+-->
 <!---<h1><strong>H E L L O </strong></h1>
-<h3><strong>Nice to meet you!</strong></h3>-->
+<h3><strong>Nice to meet you!</strong></h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=100&duration=3500&pause=1200&color=010101&center=true&vCenter=true&width=1080&height=100&lines=Hi!+I+am+Yasmeen;I+am++a+Software+Developer;get+back+to+coding!)](https://git.io/typing-svg)
 
@@ -28,39 +29,49 @@
   </a>
 </div>
 
+-->
 
-<div id="header" align="center">
   
   <!--img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/minion.png' width='300"'-->
   
 
- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
- </div>
+
+
+
  
 <div align="left">
  
    ### Freelance Developer <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 <!--- typing tech -->
-I create magic with 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4998&pause=1000&color=06161D&background=9F9F9F00&width=435&lines=HTML+%7C+CSS;JavaScript;PHP;Laravel;SAP+ABAP)](https://git.io/typing-svg)
-</br>
-🧰 I have been shaping the web, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> professionally, for 4 years.
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" align="right" width="130" height="auto"/>
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
-- 📋 Software Engineer @ SofSafe
-- 🖋️ Technical Writer @ Open Source Software PH
-- 📦 Core Maintainer @ Waycrate
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
--  Ask me about books, black holes and history (¯\_(ツ)_/¯)
-- 🔭 I’m currently working on: **Java | Selenium | TestNG | Maven | Rest Assured | TeamCity**
-- Open source contribution
-- competitive coding
+I create magic with 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4998&pause=1000&color=06161D&background=9F9F9F00&width=435&lines=HTML+%7C+CSS;JavaScript;PHP;Laravel;SAP+ABAP)](https://git.io/typing-svg)
+
+</br>
+ I have been shaping the web, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> professionally, for 4 years.
+
+- In my free time I solve problems on GeeksforGeeks and read tech articles.
+- Ask me about books, black holes and history (¯\_(ツ)_/¯)
+- I’m currently working on: **JavaScript | Laravel | MySQL | SAP ABAP | Metasploit **
+
+  ### About my Coding Life!
+  
+- Favorite language: PHP
+- OS: Windows10
+- Text Editor: Sublime Text
+<!-- Open source contribution
+- competitive coding -->
 
 </div>
+<!---
 <div align="right">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
+<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="200" height="250" />
 </div>
 <br/>
+-->
 
 ----
 ### My Tech Playground 🚀
@@ -111,7 +122,7 @@ I create magic with
 </p>
 <!---<img src=" https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100">-->
 
-🎭 Embrace My Versatility 🎭
+ Embrace My Versatility 
 
 
 
@@ -120,44 +131,32 @@ I create magic with
 src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Icons/developer-girl.gif" 
 /> 
 ### 📫 Just to say hello! 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<!--<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>-->
 <div align="center">
-  <a href="https://linkedin.com/in/yousafesaeed">
+  <a href="https://linkedin.com/in/yasmeen-habib/">
     <img alt="LinkedIn" src="https://raw.githubusercontent.com/yousafesaeed/yousafesaeed/main/assets/linkedin.svg" width="22px" hight="22px"/>
   </a>&emsp;
   <a href="https://twitter.com/yousafesaeed/">
     <img alt="Twitter" src="https://raw.githubusercontent.com/yousafesaeed/yousafesaeed/main/assets/twitter.svg"  width="22px" hight="22px"/>
   </a>&emsp;
-  <a href="mailto:yousafesaeed@gmail.com">
+  <a href="mailto:yasminhabib20@gmail.com">
     <img alt="Email" src="https://raw.githubusercontent.com/yousafesaeed/yousafesaeed/main/assets/email.svg" width="22px" hight="22px"/>
   </a>
 </div>
-whatsapp (qrcode) linkedin gmail 
-
----
+<!--
+whatsapp (qrcode) 
 ### More bullet points because I am Lazy..
----
 ### 👉 About Me
-- 🖥 Favorite language: PHP
-- 💻 OS: Windows10
-- 🗒️ Text Editor: Sublime Text
-
----
 ### 📎 Projects
-
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
 </div>
-
 - 🌲 I'm the author of treefetch.
-
 - A core contributor to Waycrate. I chose the name Waycrate and designed its logo.
 - Wrote 20+ unit tests for the config parser of swhkd.
 - Wrote a Discord bot for the Axyl Discord server.
-
----
 ### Highlights
-
+-->
 <!---
 recommended reads / quotes / jokes
 GitHub stats, pins, , and daily stats.  
@@ -168,16 +167,18 @@ GitHub stats, pins, , and daily stats.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=1500&color=010101&center=true&vCenter=true&multiline=true&repeat=false&width=1600&height=200&lines=Hope+you+enjoy!;Now+we+both+should+probably;get+back+to+coding!)](https://git.io/typing-svg)
 
-<div align="center">
-<img src="https://tenor.com/view/bjyx-wyb-wang-yibo-finger-heart-heart-gif-15749379.gif"> </div> <br>
 
-<!-- Back to TOP -->
+<!--
+<div align="center">
+<img src="https://tenor.com/view/bjyx-wyb-wang-yibo-finger-heart-heart-gif-15749379.gif"> </div> <br>-->
+
+<!-- Back to TOP 
 <p align="left">
 <a href="#top">
 <img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=red&style=for-the-badge&logo" alt="Back to Top" /> </a> </p>
 
 
-
+-->
 
 
 
