@@ -178,7 +178,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 
 </br>
 <div align="center">
-  <img width="12" /> <img width="12" />
+  <img width="12" /> <img width="12" /> <img width="12" />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   <img width="12" />
   <a href="https://www.linkedin.com/in/yasmeen-habib/" target="_blank">
