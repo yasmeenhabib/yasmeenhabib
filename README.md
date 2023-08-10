@@ -1,8 +1,4 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF2709&center=true&vCenter=true&width=435&lines=Hi+I+am+Yasmeen+Habib;I+am+software+developer)](https://git.io/typing-svg)
-
-
+<img src="header.png">
 
 </div>
 <!---buttons
@@ -36,23 +32,33 @@
 -->
 
   <!--img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/minion.png' width='300"'-->
-
+</br>
 <div align="left">
  
    ### Freelance Developer <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 <!--- typing tech -->
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" align="right" width="130" height="auto"/>
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=100&color=F72511&center=true&vCenter=true&multiline=true&width=435&height=120&lines=I+am+currently+working+on;PHP+%7C+Laravel;SAP+ABAP;Metasploit)](https://git.io/typing-svg)
+<!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=100&color=F72511&center=true&vCenter=true&multiline=true&width=435&height=120&lines=I+am+currently+working+on;PHP+%7C+Laravel;SAP+ABAP;Metasploit)](https://git.io/typing-svg)-->
 
 </br>
  I have been shaping the web, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> professionally, for 4 years.
 
+- I’m currently working on: **JavaScript | Laravel | MySQL | SAP ABAP | Metasploit**
+- Current_location: <ins>[' Lahore, Punjab, Pakistan ']</ins>.
+- Next_locations:  <ins>[' Silicon Valley, USA ']</ins>.
 - In my free time I solve problems on GeeksforGeeks and read tech articles.
-- Ask me about books, black holes and history ¯\'_(ツ)_/¯ 
-- I’m currently working on: **JavaScript | Laravel | MySQL | SAP ABAP | Metasploit **
-
+- Ask me about books, black holes and history ¯\'_(ツ)_/¯
+  
+- One day I hope to ..
+  - [ ] Go skydiving!
+  - [ ] Contribute code to openai
+  - [ ] Install   (it is beyond my power now... I must train hard...)
+  - [ ] Get a FAANGM+ internship (if you have this power to please hire me)
+ 
+ </br>
+ 
 ### About my Coding Life!
 
 - Favorite language: PHP
@@ -60,6 +66,8 @@
 - Text Editor: Sublime Text
 <!-- Open source contribution
 - competitive coding -->
+
+### Resume | [Website](https://yasmeenhabib.github.io/)
 
 </div>
 <!---
@@ -71,20 +79,22 @@
 
 ---
 
+</br>
+
 ### My Tech Playground 🚀
 
-<p align="left" width="100">
+<div align="left">
+
+
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" align="right" width="50">  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" align="right" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" align="right" width="50">
+
 
 I love technology, especially <b>computer science</b>,</br> cloud computing, software engineering, and creating automation tools.
 </br></br>
 Embrace My Versatility
 
-</p>
-<p align="right">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
-</p> 
-<p align="left"></p>
-
+</div>
+</br></br>
 <table align=center>
 <tr>
 <th>Description</th>
@@ -150,7 +160,7 @@ Embrace My Versatility
 
 <!---<img src=" https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100">-->
 
-</br>
+</br> </br>
 
 <img width="250" align="right" alt="Github"
 src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Icons/developer-girl.gif" 
@@ -158,10 +168,17 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 
 ### Just to say hello!
 
+</br>
+
+
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+
+
+
+</br>
 <div align="center">
-  <img width="12" />
+  <img width="12" /> <img width="12" />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   <img width="12" />
   <a href="https://www.linkedin.com/in/yasmeen-habib/" target="_blank">
@@ -185,6 +202,16 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
   </a>
 </div>
 
+<!-- Thanks for your Visit -->
+
+</br></br>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=700&height=60&lines=Hope+you+enjoy!;Now+we+both+should+probably+get+back+to+coding!)](https://git.io/typing-svg)
+
+</div>
+
+
 <!--
 whatsapp (qrcode)
 ### More bullet points because I am Lazy..
@@ -203,10 +230,6 @@ whatsapp (qrcode)
 recommended reads / quotes / jokes
 GitHub stats, pins, , and daily stats.
 -->
-
-<!-- Thanks for your Visit -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF2709&center=true&vCenter=true&width=700&height=60&lines=Hope+you+enjoy!;Now+we+both+should+probably+get+back+to+coding!)](https://git.io/typing-svg)
 
 <!--
 <div align="center">
