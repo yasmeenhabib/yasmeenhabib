@@ -67,7 +67,7 @@
 <!-- Open source contribution
 - competitive coding -->
 
-### Resume | [Website](https://yasmeenhabib.github.io/)
+### [Resume](https://yasmeenhabib.github.io/resume.pdf) | [Website](https://yasmeenhabib.github.io/)
 
 </div>
 <!---
